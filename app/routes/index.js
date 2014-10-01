@@ -4,5 +4,5 @@
  */
 
 exports.index = function(req, res){
-  res.render('index', { title: 'BEERNGIN + Spark.io LED Example' });
+  res.render('index', { title: 'Spark.io LED Example' });
 };

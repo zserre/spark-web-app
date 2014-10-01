@@ -1,5 +1,5 @@
 {
-  "name": "meanbeerngin",
+  "name": "spark-web-app",
   "version": "0.0.1",
   "dependencies": {
     "angular": "1.0.6",
