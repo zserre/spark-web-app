@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'Droid Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Droid Sans'), url(https://themes.googleusercontent.com/static/fonts/droidsans/v3/s-BiyweUPV0v-yRb-cjciBsxEYwM7FgeyaSgU71cLG0.woff) format('woff');
+}
+
+body {
+  font-family: 'Droid Sans', Helvetica, Arial, sans-serif; 
+  padding: 25px;
+  background-color: #555555;
+  border-color: #e7e7e7;
+  color: #ffffff;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.container {
+  padding: 50px;
+}
+
+td {
+  padding: 10px;
+}

@@ -1,0 +1,10 @@
+{
+  "name": "meanbeerngin",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "1.0.6",
+    "bootstrap-javascript": "3.0.2",
+    "bootstrap-css": "3.0.0",
+    "jquery": ">= 1.9.0"
+  }
+}

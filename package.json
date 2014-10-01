@@ -1,0 +1,19 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.4.8",
+    "ejs": "*",
+    "mongodb": ">= 0.9.6-7",
+    "mongoose" : ">= 3.6",
+    "grunt": "~0.4.2",
+    "grunt-bower-install": "~0.8.0",
+    "load-grunt-tasks": "~0.2.0",
+    "time-grunt": "~0.2.1",
+    "grunt-contrib-copy": "~0.4.1"
+  }
+}
